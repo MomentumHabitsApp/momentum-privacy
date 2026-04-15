@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy — Momentum</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+            background: #f9f9f9;
+            color: #1a1a1a;
+            line-height: 1.7;
+        }
+
+        .container {
+            max-width: 680px;
+            margin: 0 auto;
+            padding: 60px 24px 80px;
+        }
+
+        .header {
+            margin-bottom: 48px;
+        }
+
+        .app-name {
+            font-size: 13px;
+            font-weight: 600;
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
+            color: #4085FF;
+            margin-bottom: 12px;
+        }
+
+        h1 {
+            font-size: 36px;
+            font-weight: 700;
+            color: #1a1a1a;
+            line-height: 1.2;
+            margin-bottom: 12px;
+        }
+
+        .updated {
+            font-size: 14px;
+            color: #888;
+        }
+
+        .intro {
+            font-size: 17px;
+            color: #444;
+            margin-bottom: 48px;
+            padding: 20px 24px;
+            background: #eef4ff;
+            border-radius: 12px;
+            border-left: 3px solid #4085FF;
+        }
+
+        section {
+            margin-bottom: 40px;
+        }
+
+        h2 {
+            font-size: 18px;
+            font-weight: 700;
+            color: #1a1a1a;
+            margin-bottom: 10px;
+        }
+
+        p {
+            font-size: 15px;
+            color: #444;
+            margin-bottom: 12px;
+        }
+
+        p:last-child {
+            margin-bottom: 0;
+        }
+
+        .divider {
+            border: none;
+            border-top: 1px solid #e5e5e5;
+            margin: 48px 0;
+        }
+
+        .contact-box {
+            background: #fff;
+            border: 1px solid #e5e5e5;
+            border-radius: 14px;
+            padding: 24px;
+        }
+
+        .contact-box h2 {
+            margin-bottom: 8px;
+        }
+
+        .contact-box a {
+            color: #4085FF;
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        .contact-box a:hover {
+            text-decoration: underline;
+        }
+
+        footer {
+            margin-top: 60px;
+            font-size: 13px;
+            color: #aaa;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+
+        <div class="header">
+            <div class="app-name">Momentum</div>
+            <h1>Privacy Policy</h1>
+            <p class="updated">Last updated: April 14, 2026</p>
+        </div>
+
+        <p class="intro">
+            Momentum is designed with your privacy in mind. The app does not collect, transmit, or share any personal data. Everything stays on your device.
+        </p>
+
+        <section>
+            <h2>Data Storage</h2>
+            <p>All data you create in Momentum — including your habits, progress, streaks, XP, settings, and name — is stored locally on your device using iOS system storage.</p>
+            <p>This data never leaves your device and is not accessible to the developer.</p>
+        </section>
+
+        <section>
+            <h2>Notifications</h2>
+            <p>Momentum may request permission to send you local notifications as habit reminders. These notifications are scheduled entirely on your device.</p>
+            <p>No data is transmitted to any server in connection with notifications.</p>
+        </section>
+
+        <section>
+            <h2>In-App Purchases</h2>
+            <p>Momentum offers optional tip purchases to support development. All transactions are processed by Apple through the App Store.</p>
+            <p>The developer does not receive or store any payment information. Apple's Privacy Policy governs all transaction data.</p>
+        </section>
+
+        <section>
+            <h2>Third Parties</h2>
+            <p>Momentum does not use any third-party analytics, advertising networks, crash reporting tools, or tracking SDKs.</p>
+            <p>No data is shared with any third party.</p>
+        </section>
+
+        <section>
+            <h2>Children's Privacy</h2>
+            <p>Momentum does not knowingly collect data from anyone, including children under 13.</p>
+        </section>
+
+        <section>
+            <h2>Changes to This Policy</h2>
+            <p>If this policy changes in a future update, the updated policy will be available at this URL and the "Last updated" date above will reflect the change.</p>
+        </section>
+
+        <hr class="divider">
+
+        <div class="contact-box">
+            <h2>Contact</h2>
+            <p>If you have any questions about this privacy policy, you can reach us at:</p>
+            <p><a href="mailto:your@email.com">your@email.com</a></p>
+        </div>
+
+        <footer>
+            &copy; 2026 Momentum. All rights reserved.
+        </footer>
+
+    </div>
+</body>
+</html>
